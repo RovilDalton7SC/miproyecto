@@ -1,0 +1,14 @@
+header{
+    display: block;
+    /*border: 5px solid red;*/
+    padding: 10px 10px;/*Left Right */
+    text-align: center;
+}
+
+header img{
+    width:  100%;
+    height: auto;
+}
+.textos{
+    font-family: 'Hurricane', italic;
+}
